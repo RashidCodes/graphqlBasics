@@ -1,2 +1,0 @@
-# graphqlBasics
-Basics of graphql
