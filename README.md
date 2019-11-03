@@ -2,7 +2,7 @@
 In this mini-project, I build a very simple react application that displays a number of books on buttons. Clicking on a book displays information about the book in a sidebar.
 
 
-#### Tools
+### Tools
 - React.js
 - Apollo 
 - Express.js
