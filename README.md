@@ -7,7 +7,7 @@ In this mini-project, I build a very simple react application that displays a nu
 - Apollo 
 - Express.js
 - Graphql
-- Express-grapqhl
+- Express-graphql
 
 
 ### Overview
